@@ -13,7 +13,7 @@ public class ArithTest {
     @Test
     @Points("arith-funcs")
     public void testSub() {
-        assertEquals(-1, Arith.sub(3, 4));
+        assertEquals(1, Arith.sub(3, 2));
     }
     
     @Test
