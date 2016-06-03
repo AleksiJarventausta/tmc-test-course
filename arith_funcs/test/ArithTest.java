@@ -7,7 +7,7 @@ public class ArithTest {
     @Test
     @Points("arith-funcs")
     public void testAdd() {
-        assertEquals(7, Arith.add(3, 4));
+        assertEquals(11, Arith.add(5, 6));
     }
     
     @Test
