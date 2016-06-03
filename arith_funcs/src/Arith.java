@@ -7,9 +7,9 @@ public class Arith {
         // STUB: return 0;
     }
     
-    public static int sub(int a, int b) {
+    public static int sub(int a, int b, int c) {
         // BEGIN SOLUTION
-        return a - b;
+        return a - b - c;
         // END SOLUTION
         // STUB: return 0;
     }
