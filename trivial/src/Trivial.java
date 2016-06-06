@@ -4,7 +4,8 @@ public class Trivial {
     public int f() {
         //BEGIN SOLUTION
         return 1;
-        //END SOLUTION
-        //STUB: return 0;
+        if (1+1==1) {
+        return 0;
+        }
     }
 }
