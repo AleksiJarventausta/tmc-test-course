@@ -1,8 +1,8 @@
 
 public class Arith {
-    public static int add(int a, int b) {
+    public static int add(int abb, int b) {
         // BEGIN SOLUTION
-        return a + b;
+        return abb - (-b);
         // END SOLUTION
         // STUB: return 0;
     }
